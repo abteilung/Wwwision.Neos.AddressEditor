@@ -1,10 +1,10 @@
 {
     "description": "Simple Neos extension adding a custom property editor for addresses, including GeoCoding",
     "type": "neos-package",
-    "name": "wwwision/neos-addresseditor",
+    "name": "abteilung/neos-addresseditor",
     "license": "MIT",
     "require": {
-        "neos/neos": "^3.0",
+        "neos/neos": "^4.0",
         "willdurand/geocoder": "^3.3",
         "php-http/guzzle6-adapter": "^1.1"
     },
